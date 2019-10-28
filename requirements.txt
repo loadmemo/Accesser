@@ -1,5 +1,4 @@
 pyopenssl
 dnspython
-dnscrypt-proxy
 tornado
 tld
